@@ -1,16 +1,10 @@
-# untitled
+# Startup Namer
 
-A new Flutter project.
+[Flutter](https://flutter.dev/) is a mobile application framework (compare to [React Native](https://reactnative.dev/), which allows you to create mobile apps for all platforms. In other words, one project will work across iOS, Android, and web.
 
-## Getting Started
+This is my first Flutter project and first time using the Dart programming language.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Notes
+If you want to try out this tutorial, here are the links:
+[Part 1 - Basic app](https://docs.flutter.dev/get-started/codelab)
+[Part 2 - Adding interactive features](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2#0)
