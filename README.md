@@ -12,7 +12,7 @@ This is my first Flutter project and first time using the Dart programming langu
    - [x] Step 3
    - [x] Step 4
    - [x] Step 5
-   - [ ] [Step 6](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2#5)
+   - [x] [Step 6](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2#5)
    - [ ] Step 7
    - [ ] Step 8
    - [ ] Step 9
