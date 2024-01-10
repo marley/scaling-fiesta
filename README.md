@@ -1,6 +1,6 @@
 # Startup Namer
 
-[Flutter](https://flutter.dev/) is a mobile application framework (compare to [React Native](https://reactnative.dev/)), which allows you to create mobile apps for all platforms. In other words, one project will work across iOS, Android, and web.
+[Flutter](https://flutter.dev/) is a mobile application framework (compare to [React Native](https://reactnative.dev/)), which allows you to create mobile apps for all platforms. In other words, one project that works across iOS, Android, and web.
 
 This is my first Flutter project and first time using the Dart programming language.
 
